@@ -1,0 +1,15 @@
+target/
+dist/
+
+*.log
+*.tmp
+*.bak
+*.pdb
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+_dv2_localisation_patcher_logs/
+_dv2_localisation_patcher_backups/
