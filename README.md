@@ -8,7 +8,7 @@ Data\Win32\Packed\MainDataStreaming.dv2
 
 ## Pobieranie
 
-Gotowy plik `.exe` będzie dostępny w zakładce **Releases** na GitHubie. Wystarczy pobrać najnowszą wersję i uruchomić program.
+Gotowy plik `.exe` jest dostępny w zakładce **Releases**. Wystarczy pobrać najnowszą wersję i uruchomić program.
 
 ## Użycie
 
